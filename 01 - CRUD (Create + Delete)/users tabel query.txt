@@ -1,0 +1,7 @@
+Insert Query:
+
+INSERT INTO `users`(`name`, `email`, `password`) VALUES ('Ali','Ali@gmail.com','Ali1234')
+
+Delete Query:
+
+DELETE FROM `users` WHERE `id`=1

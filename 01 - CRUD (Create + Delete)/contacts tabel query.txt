@@ -1,0 +1,8 @@
+Insert Query:
+
+INSERT INTO `contacts`(`message`, `user_id`) VALUES ('this is test message',1)
+
+
+Delete Query:
+
+DELETE FROM `contacts` WHERE `user_id` = 1
